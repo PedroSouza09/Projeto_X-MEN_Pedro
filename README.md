@@ -2,11 +2,11 @@
 
 ![preview](./.github/preview.png)
 
->Dev em Dobro
+> Dev em Dobro
 
 Projeto em desenvolvimento.
 
-[🔗 Clique aqui para acessar](https://pedrosouza09.github.io/Projeto_GTA_Pedro/)
+[🔗 Clique aqui para acessar](https://pedrosouza09.github.io/Projeto_X-MEN_Pedro/)
 
 ## 🛠 Tecnologias
 
